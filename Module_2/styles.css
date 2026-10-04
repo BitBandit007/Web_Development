@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+.blog{
+  border: 20px solid rgb(172, 51, 228);
+  border-radius: 20px ;
+  /* border-top: 20px solid blueviolet; */
+  /* border-left: 20px solid blueviolet; */
+  margin: 20px;
+  padding:20px;
+  box-shadow: 10px 20px 5px rgb(109, 14, 235);
+  }
+h2{
+    text-decoration:underline;
+}
+header{
+    height: 700px;
+    background-image: url(../Module_1/Images/bilai.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
